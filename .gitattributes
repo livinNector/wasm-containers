@@ -1,3 +1,4 @@
 containers/alpine.wasm.gz filter=lfs diff=lfs merge=lfs -text
 containers/alpine-bash.wasm.gz filter=lfs diff=lfs merge=lfs -text
 containers/debian-qemu.wasm.gz filter=lfs diff=lfs merge=lfs -text
+alpine-basic/alpine-basic.wasm.gz filter=lfs diff=lfs merge=lfs -text
